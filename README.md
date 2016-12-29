@@ -9,4 +9,6 @@ For this assignment, you will build a projection renderer on top of your scenegr
 
 See scene.py for resulting screenshots: one of a wireframe rendering, one of a rendering produced by Mayavi, and three produced by my raster renderer.
 
+http://jadrian.org/courses/pa/comp_gfx/2016.0/hw/5-projection-renderer.html
+
 CS630: Computer Graphics | Phillips Academy | Winter 2016
