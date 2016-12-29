@@ -1,8 +1,6 @@
 # ProjectionRenderer
 Computer Graphics HW5
 
-Assigment Instructions
-
 For this assignment, you will build a projection renderer on top of your scenegraph work from HW4.
 * Part 1: Add color to your HW4 scenes by inserting new “surface” nodes to the scenegraph.
 * Part 2: Define the posing method for a camera and the transformations used to put world-space points into the canonical view volume.
@@ -11,4 +9,4 @@ For this assignment, you will build a projection renderer on top of your scenegr
 
 See scene.py for resulting screenshots: one of a wireframe rendering, one of a rendering produced by Mayavi, and three produced by my raster renderer.
 
-CS630: Software Design | Phillips Academy | Winter 2016
+CS630: Computer Graphics | Phillips Academy | Winter 2016
